@@ -2,10 +2,10 @@
   "name": "egodrop",
   "version": "1.0.0",
   "description": "EgoDrop Discord Bot",
-  "main": "index.mjs",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node index.js"
   },
   "dependencies": {
     "@types/node": "^22.13.11",
